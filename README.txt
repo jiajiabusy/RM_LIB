@@ -1,3 +1,1 @@
-first try.
-second try.
-third try.
+Libraries for Altium design in RM.
